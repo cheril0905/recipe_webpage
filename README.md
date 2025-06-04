@@ -1,11 +1,11 @@
-# 🍲 Recipe Webpage
+# Recipe Webpage
 
 This is a simple **Recipe Webpage** built using **HTML** and ** Basic CSS**. It showcases a collection of delicious Indian recipes with images, ingredients, and a short description of the cooking process.
-## 🔧 Features
-- ✨ Smooth transitions on hover
-- 📱 Responsive layout using **Flexbox**
+##  Features
+-  Smooth transitions on hover
+-  Responsive layout using **Flexbox**
 - Used flexbox for layout and transiton in CSS for smooth hovering
-## 💡 Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3 (with transitions and flexbox)
